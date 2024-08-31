@@ -1,7 +1,8 @@
 # Dynamic Hurdles Snake Game
 
 ## Overview
-This is a extraordinary Snake game implemented in Python using the Turtle graphics library and OOps concepts.
+This is a my first project in life with intermadiate level of python.(Motivate me to do more in this mortal life)
+It is extraordinary Snake game implemented in Python using the Turtle graphics library and OOps concepts.
 
 
 
@@ -23,8 +24,7 @@ This is a extraordinary Snake game implemented in Python using the Turtle graphi
 Contributions are welcome 🙃! Please fork the repository and submit a pull request.
 
 **License** ⚖️  
+
 _This project is licensed under the MIT License._
 
-### `requirements`
-```text
-turtle libray
+
