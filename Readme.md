@@ -11,6 +11,7 @@ This is a extraordinary Snake game implemented in Python using the Turtle graphi
 - **Mega Food**: Special food that appears occasionally and disappears after 15 seconds.
 - **Pause/Resume**: Pause and resume the snake or hurdles.
 - **Collision Detection**: Detects collisions with the walls and the snake's own body.
+- **Highest score**: It save the highest score and player name.
 
 **Controls**
 - Arrow Keys: Control the direction of the snake.
