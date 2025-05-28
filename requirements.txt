@@ -1,0 +1,5 @@
+# Python package dependencies for the Snake Game
+# Note: tkinter is a system-level dependency and must be installed separately
+# See the main README.md for instructions on installing tkinter
+
+pandas>=1.0.0
